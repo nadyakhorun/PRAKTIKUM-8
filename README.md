@@ -6,12 +6,12 @@ NIM     : 312210133
 
 KELAS   : TI.22.A1
 
-## DAFTAR ISI
-No	Description	Link
-1	Tugas Praktikum 8	Click Here
-2	Praktikum 8	Click Here
-3	Diagram Class Praktikum 8	Click Here
-4	Flowchart Praktikum 8	Click Here
+## DAFTAR ISI <br>
+| No | Description | Link |
+|-----|------|-----|
+|1|Latihan|[Click Here](#latihan)|
+|2|Praktikum6|[Click Here](#praktikum8)|
+|3|Flowchart Praktikum8|[Click Here](#flowchart-praktikum-8)|
 
 ### Tugas Praktikum 8
 
