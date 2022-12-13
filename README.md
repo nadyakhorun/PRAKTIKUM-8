@@ -172,10 +172,6 @@ Rumus
 
 ![HASIL RUN LIHAT DATA](https://user-images.githubusercontent.com/115801823/207299422-8351f49c-61f1-4dc3-b8bb-b65633bc6a4e.PNG)
 
-- Ini tampilan jika kita menginput method : Ubah()
-
-![HASIL RUN UBAH DATA](https://user-images.githubusercontent.com/115801823/207300963-edabddbf-83fe-448f-898f-52fa91c9077a.PNG)
-
 - Fungsi membuat method ubah() yaitu untuk mengubah data. jika method ini diinput, maka data Nama, NIM, nilai tugas, nilai UTS, nilai UAS index nomor - (no) akan diubah sesuai dengan inputan dari user. Index ke - (no) akan dicari secara otomatis sesuai dengan nama yang ingin diubah oleh user.
         def ubah(self,nim,nama,tugas,uts,uas):
                 self.nim[no] = nim
